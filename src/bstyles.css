@@ -4,7 +4,7 @@
     font-family: 'Luminari';
     font-style: normal;
     font-weight: normal;
-    src: local('Luminari'), url('Luminari-Regular.woff') format('woff');
+    src: local('Luminari'), url('assets/fonts/Luminari-Regular.woff') format('woff');
 }
 
 
