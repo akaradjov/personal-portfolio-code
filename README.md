@@ -27,11 +27,13 @@ Used for dynamic interactions and features, improving the site’s interactivity
 ##### Fonts: 
 Custom fonts are included to maintain a unique typography style across the site.
 
+<img src="assets/images/ppp.png" width="300" height="200">
+
 
 ##### Images: 
 High-quality images I designed personally.
 
-<img src="assets/iamges/ptww.png" width="300" height="200">
+<img src="assets/images/ptww.png" width="300" height="200">
 
 <img src="assets/images/pcnn.png" width="300" height="200">
 
