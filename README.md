@@ -42,7 +42,7 @@ High-quality images I designed personally.
 
 <img src="assets/images/pcnn.png" width="300" height="200">
 
-<img src="assets/images/0.png" width="200" height="400">
+<img src="assets/images/0.png" width="300" height="300">
 
 ##### Videos: 
 Embedded videos I have previously drawn and animated.
