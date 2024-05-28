@@ -35,6 +35,7 @@ Custom fonts are included to maintain a unique typography style across the site.
 <img src="assets/images/ppp.png" width="300" height="200">
 
 <br>
+
 ##### Images: 
 High-quality images I designed personally.
 
@@ -45,6 +46,7 @@ High-quality images I designed personally.
 <img src="assets/images/0.png" width="300" height="300">
 
 <br>
+
 ##### Videos: 
 Embedded videos I have previously drawn and animated.
 
