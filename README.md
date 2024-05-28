@@ -31,7 +31,7 @@ Custom fonts are included to maintain a unique typography style across the site.
 ##### Images: 
 High-quality images I designed personally.
 <img src="assets/iamges/ptww.png" width="200" height="200">
-<img src="asstes/images/pcnn.png" width="200" height="200">
+<img src="assets/images/pcnn.png" width="200" height="200">
 ![Optional Alt Text](assets/images/ptww.png)
 ![Optional Alt Text](assets/images/pcnn.png)
 
