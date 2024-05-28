@@ -45,8 +45,8 @@ High-quality images I designed personally.
 
 ##### Videos: 
 Embedded videos I have previously drawn and animated.
-![froggif](url_to_gif_here)
 
+<img src="assets/images/frogman.gif" width="300" height="200">
 <img src="assets/images/introanimationgif.gif" width="300" height="200">
 
 <br>
