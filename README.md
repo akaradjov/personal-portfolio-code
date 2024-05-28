@@ -42,12 +42,13 @@ High-quality images I designed personally.
 
 <img src="assets/images/pcnn.png" width="300" height="200">
 
+<img src="assets/images/0.png" width="300" height="200">
 
 ##### Videos: 
 Embedded videos I have previously drawn and animated.
 
 <img src="assets/images/frogman.gif" width="300" height="200">
-<img src="assets/images/introanimationgif.gif" width="300" height="200">
+<img src="assets/images/introanimationgif.gif" width="200" height="300">
 
 <br>
 
