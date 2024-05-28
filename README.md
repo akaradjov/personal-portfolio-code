@@ -48,7 +48,7 @@ High-quality images I designed personally.
 Embedded videos I have previously drawn and animated.
 
 <img src="assets/images/frogman.gif" width="300" height="200">
-<img src="assets/images/introanimationgif.gif" width="200" height="300">
+<img src="assets/images/introanimationgif.gif" width="200" height="500">
 
 <br>
 
