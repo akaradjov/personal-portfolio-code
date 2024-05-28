@@ -30,8 +30,8 @@ Custom fonts are included to maintain a unique typography style across the site.
 
 ##### Images: 
 High-quality images I designed personally.
-![Optional Alt Text](images/ptww.png)
-![Optional Alt Text](images/pcnn.png)
+![Optional Alt Text](assets/images/ptww.png)
+![Optional Alt Text](assets/images/pcnn.png)
 
 ##### Videos: 
 Embedded videos I have previously drawn and animated.
