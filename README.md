@@ -9,7 +9,7 @@ Want to check it out? -> https://akaradjov.github.io/
 
 Welcome to the GitHub repository for my personal portfolio website. 
 
-Although for saftey reasons, this is not the repository linked with github pages.
+Although for saftey reasons, this is not the repository linked with Github pages.
 
 
 This project is built using HTML, CSS, and JavaScript, and incorporates a variety of assets like custom fonts, videos, and images to create a visually engaging and interactive online portfolio. The repository is structured to facilitate easy navigation and comprehension of the codebase:
