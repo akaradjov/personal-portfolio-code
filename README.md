@@ -21,8 +21,7 @@ Serve as the backbone of the site, structuring the content and ensuring semantic
 
 
 #### CSS Files: 
-Contai
-n responsive styles and animations that enhance the visual impact and user experience of the portfolio.
+Contains responsive styles and animations that enhance the visual impact and user experience of the portfolio.
 
 
 #### JavaScript: 
