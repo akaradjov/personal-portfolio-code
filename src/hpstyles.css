@@ -4,21 +4,21 @@
     font-family: 'Luminari';
     font-style: normal;
     font-weight: normal;
-    src: local('Luminari'), url('assests/fonts/Luminari-Regular.woff') format('woff');
+    src: local('Luminari'), url('assets/fonts/Luminari-Regular.woff') format('woff');
 }
 
 @font-face {
     font-family: 'Playfair';
     font-style: normal;
     font-weight: normal;
-    src: local('Playfair'), url('assets/fonts/PlayfairDisplay.ttf') format('ttf');
+    src: local('Playfair'), url('assets/fonts/PlayfairDisplay.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'Jacquard 12 , system-ui';
     font-style: normal;
     font-weight: normal;
-    src: local('Jacquard 12'), url('assets/fonts/Jacquard12-Regular.ttf') format('ttf');
+    src: local('Jacquard 12'), url('assets/fonts/Jacquard12-Regular.ttf') format('truetype');
 }
 
 /* ^^^ FONTS ^^^ */
@@ -72,8 +72,7 @@ body {
 }
 
 
-
-[data-aos].aos-animate .content-section {
+.aos-animate .content-section {
     opacity: 1; 
 }
 
@@ -99,7 +98,8 @@ h2 {
 
 .content-section-wrapper {
     display: flex;
-    justify-content: space-between;
+    justify-content: flex-start;
+    align-items: center;
 }
 
 
@@ -121,7 +121,7 @@ h2 {
     flex-direction: column;
     align-items: flex-start;
     margin-left: 20px; 
-    position:absolute;
+    
     right: 20px;
 }
 
