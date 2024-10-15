@@ -21,6 +21,22 @@
     src: local('Jacquard 12'), url('assets/fonts/Jacquard12-Regular.ttf') format('truetype');
 }
 
+
+@font-face {
+    font-family: 'Yoster, system-ui';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Yoster'), url('assets/fonts/yoster.ttf') format('truetype');
+}
+
+
+@font-face {
+    font-family: 'pcsenior, system-ui';
+    font-style: normal;
+    font-weight: normal;
+    src: local('pcsenior'), url('assets/fonts/pcsenior.ttf') format('ttf');
+}
+
 /* ^^^ FONTS ^^^ */
 
 
