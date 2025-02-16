@@ -41,8 +41,47 @@
 
 
 
+/* BACKGROUND IMAGES */
+.background-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -10; /* Ensures it's behind all content */
+    overflow: hidden;
+}
 
 
+.bg1, .bg2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    transition: opacity 1s ease-in-out;
+}
+
+
+.bg1 {
+    background-image: url('assets/images/sunset.png'); /* Replace with actual path */
+    opacity: 1;
+}
+
+
+.bg2 {
+    background-image: url('assets/images/stars.png'); /* Replace with actual path */
+    opacity: 0;
+}
+
+
+.spacer-section {
+    height: 150vh; /* Adjust based on content */
+}
+
+/* ^^^^ BACKGROUND IMAGES ^^^^ */
 
 
 
